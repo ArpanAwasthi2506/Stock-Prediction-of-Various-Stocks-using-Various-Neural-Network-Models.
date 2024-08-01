@@ -1,0 +1,2 @@
+# Stock-Prediction-of-Various-Stocks-using-Various-Neural-Network-Models.
+This repository contains code and resources for predicting stock prices using various neural network models. The project explores different architectures, including ANN,RNN,CNN,LSTM and Bi LSTM, to analyze and forecast stock market data. The aim is to develop accurate predictive models that can assist in making informed trading decisions.
